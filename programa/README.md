@@ -1,4 +1,4 @@
 <h2>Design Pattern Strategy</h2>
 <p align="justified">Nesse projeto estamos focando na aplicação do Padrão "Strategy" no Laravel.</p>
 <p align="justified">Sabemos que MVC é diferente de Design Patterns, embora o MVC nos ajude a organizar o projeto, ainda precisamos em dadas situações aplicar alguns padrões de projeto.</p>
-<p align="justified">Aqui apensa vamos nos concentrar em criar interfaces modelos para algumas coisas, por exemplo "CADASTRO", existem várias entidades categorias, produtos ou clientes, que podem ter em comum coisas que acontecem em "CADASTRO". Então cada objeto (categoria,produto ou cliente) terá sua própria classe que implementa interface cadastro, bem como seus próprios métodos já padronizados na interface. </p>
+<p align="justified">Aqui apenas vamos nos concentrar em criar interfaces modelos para algumas coisas, por exemplo "CADASTRO", existem várias entidades categorias, produtos ou clientes, que podem ter em comum coisas que acontecem em "CADASTRO". Então cada objeto (categoria,produto ou cliente) terá sua própria classe que implementa interface cadastro, bem como seus próprios métodos já padronizados na interface. </p>
